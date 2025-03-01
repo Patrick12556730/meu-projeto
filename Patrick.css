@@ -1,0 +1,30 @@
+.patrick {
+    color: rgba(1, 19, 12, 0.553);
+    font-size: large;
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+}
+
+html {
+   background-color: rgb(134, 95, 163);
+}
+body{
+   background-color: rgb(134, 95, 163);
+}
+html::-webkit-scrollbar {
+    width: 0.8rem;
+}
+
+html::-webkit-scrollbar-track {
+    background: rgb(255, 8, 243);
+}
+
+html::-webkit-scrollbar-thumb {
+    background: black;
+}
+img{
+    width: 44%;
+    height: 50%;
+}
